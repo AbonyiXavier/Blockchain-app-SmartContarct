@@ -1,1 +1,1 @@
-# Blockchain-app-SmartContarct
+# Blockchain-Solidity-SmartContarct app
